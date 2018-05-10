@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apostilas>
+	<apostila id="1" ano="2018">
+		<titulo>Dominando PHP</titulo>
+		<topicos>
+			<topico>Introdução ao PHP</topico>
+			<topico>Intermediario</topico>
+			<topico>Avancado</topico>
+		</topicos>
+	<capitulos><capitulo>1 - Inicio</capitulo><capitulo>2 - Configuracao Ambiente</capitulo><capitulo>3 - Logica</capitulo></capitulos></apostila>
+	<apostila id="2">
+		<titulo>Java em 30 dias</titulo>
+		<topicos>
+			<topico>Introdução</topico>
+			<topico>Intermediario</topico>
+			<topico>Avancado</topico>
+		</topicos>
+	<paginas>158</paginas></apostila>
+	<apostila id="3">
+		<titulo>Desvendando Ruby</titulo>
+		<topicos>
+			<topico>Introdução</topico>
+			<topico>Intermediario</topico>
+			<topico>Avancado</topico>
+		</topicos>
+	<paginas>176</paginas></apostila>
+</apostilas>

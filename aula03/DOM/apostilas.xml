@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apostilas>
+	<apostila id="1">
+		<titulo>Dominando PHP</titulo>
+		<topicos>
+			<topico>Introdução</topico>
+			<topico>Intermediario</topico>
+			<topico>Avancado</topico>
+		</topicos>
+	<pagina>140</pagina></apostila>
+	<apostila id="2">
+		<titulo>Dominando Java</titulo>
+		<topicos>
+			<topico>Introdução</topico>
+			<topico>Intermediario</topico>
+			<topico>Avancado</topico>
+		</topicos>
+	<pagina>185</pagina></apostila>
+	<apostila id="3">
+		<titulo>Dominando Ruby</titulo>
+		<topicos>
+			<topico>Introdução</topico>
+			<topico>Intermediario</topico>
+			<topico>Avancado</topico>
+		</topicos>
+	</apostila>
+</apostilas>
